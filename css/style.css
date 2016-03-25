@@ -1,8 +1,11 @@
+/*the css for the close_button.png, potisition to the top right of the dialog window*/
 #close_button{
 position:absolute;
 top:0;
 right:0;
 }
+
+/*the css for the dialog popup*/
 #myDialog_popup{
 position:absolute;
 float: right;
