@@ -3,7 +3,7 @@
 Plugin Name: Bottom Right PopUp Window
 Plugin URI: http://wordpress.org/plugins/bottom-right-popup-window/
 Description: Displays a right bottom pop up window with an image of your choice as a link to another (or the same) website.
-Author: Daskalou Fotis, Papastamatis Yannis
+Author: Fotis Daskalou, Yannis Papastamatis (yannispi)
 Version: 0.1 alpha
 Licence: GNU General Public Licence v2 or later
 Licence URI: http://www.gnu.org/licenses/gpl-2.0.html
